@@ -1,4 +1,6 @@
 same SD practise
+
+
 <img width="500" height="500" alt="curnoise" src="https://github.com/user-attachments/assets/6177946b-e560-4d16-aee3-465ab078944d" />
 
 <img width="500" height="500" alt="rock2" src="https://github.com/user-attachments/assets/259704da-d60e-4f33-8356-70fa97188cc9" />
